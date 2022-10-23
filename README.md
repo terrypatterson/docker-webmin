@@ -1,5 +1,5 @@
 # docker-webmin
-# Thanks to chsliu this is just a slight revision of his work. Many thanks!
+Thanks to chsliu this is just a slight revision of his work. Many thanks!
 dockerfile for webmin
 
 ## Building the image
