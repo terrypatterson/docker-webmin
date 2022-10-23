@@ -1,5 +1,5 @@
-FROM debian:jessie
-MAINTAINER Sita Liu <chsliu+docker@gmail>
+FROM ubuntu:jammy
+MAINTAINER Terry Patterson <terrypatterson@gmail>
 
 
 RUN echo root:pass | chpasswd && \
